@@ -1,2 +1,2 @@
-# dslms
+# dsms
 personal project
